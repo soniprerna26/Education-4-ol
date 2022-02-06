@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    background-image: url('https://www.volcano-run.com/wp-content/uploads/2017/09/schdule-bg-1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    height: 100%;
+    text-align: center;
+}
+
+body p {
+    text-align: center;
+}
+
+body h2 {
+    text-align: center;
+}
+
+.h-w-20 {
+    height: 200px;
+    width: 300px;
+    background: white;
+    margin: 20px;
+    border-top: 3px solid #059669;
+    border-radius: 5px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+
+.flex {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  @media (max-width: 1000px) {
+    .h-w-20{
+      margin: auto;
+      height: 200px;
+      width: 300px;
+      background: white;
+      margin-top: 20px;
+      border-top: 3px solid #059669;
+      border-radius: 5px;
+      box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .flex {
+      display: initial;
+      align-items: center;
+      align-content: center;
+    }
+  }
+
