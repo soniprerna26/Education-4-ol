@@ -1,6 +1,6 @@
 # Education-4-ol - Pricing component solution
 
-This is a solution to the [Pricing component challenge on Education 4 ol](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/ouvhkqeq9dhokut9payi). Education 4 ol challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Pricing component challenge on Education 4 ol](https://user-images.githubusercontent.com/87003044/155832270-30fabcf4-1c50-4e4c-b606-6c858a6f9290.png). Education 4 ol challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
