@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/card.jpeg)
+![](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/ouvhkqeq9dhokut9payi.jpeg)
 
 ## My process
 
