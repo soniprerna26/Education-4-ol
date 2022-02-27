@@ -20,7 +20,7 @@ Users should be able to:
 
 ## My Task
 
-- Task 1 : 
+- Task 1 : Pricing component
 - Task 2 : Single price grid component 
 
 ## My Process
