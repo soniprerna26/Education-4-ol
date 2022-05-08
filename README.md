@@ -8,11 +8,12 @@ Education4ol is the organization which is trying to help the poor and needy ones
 - [The Challenge](#the-challenge)
 - [My Task](#mu-task)
 - [My Process](#my-process)
+- [Accomplishments](#my-accomplishments)
 
 ## About me 
   Hi! I am Prerna Soni, Web Developer Intern at Education 4 ol. 
 
-### The Challenge
+## The Challenge
 
 Users should be able to:
   -  View the optimal layout for the component depending on their device's screen size.
@@ -41,3 +42,8 @@ Users should be able to:
     
    ### Continued development 
     - I want to continue cleaning my code and learn more about small animations. 
+    
+ ## Accomplishments 
+ 
+  - I received The Certificate of Completion by Education 4 ol.
+  - I received Letter of Recommendation by Education 4 ol.
