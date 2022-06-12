@@ -40,9 +40,6 @@ Users should be able to:
     - I used transition property and learned to make a webpage responsive.
     - I also learned to used flexbox.
     
-   ### Continued development 
-    - I want to continue cleaning my code and learn more about small animations. 
-    
  ## Accomplishments 
  
   - I received The Certificate of Completion by Education 4 ol.
